@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/ferticare/static/css/main.469c07b2.chunk.css",
-    "main.js": "/ferticare/static/js/main.98dc7c8c.chunk.js",
-    "main.js.map": "/ferticare/static/js/main.98dc7c8c.chunk.js.map",
+    "main.js": "/ferticare/static/js/main.4963bd58.chunk.js",
+    "main.js.map": "/ferticare/static/js/main.4963bd58.chunk.js.map",
     "runtime-main.js": "/ferticare/static/js/runtime-main.49b041f4.js",
     "runtime-main.js.map": "/ferticare/static/js/runtime-main.49b041f4.js.map",
     "static/js/2.c0e7845f.chunk.js": "/ferticare/static/js/2.c0e7845f.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.49b041f4.js",
     "static/js/2.c0e7845f.chunk.js",
     "static/css/main.469c07b2.chunk.css",
-    "static/js/main.98dc7c8c.chunk.js"
+    "static/js/main.4963bd58.chunk.js"
   ]
 }
