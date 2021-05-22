@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/ferticare/static/css/main.469c07b2.chunk.css",
+    "main.js": "/ferticare/static/js/main.8928294e.chunk.js",
+    "main.js.map": "/ferticare/static/js/main.8928294e.chunk.js.map",
+    "runtime-main.js": "/ferticare/static/js/runtime-main.49b041f4.js",
+    "runtime-main.js.map": "/ferticare/static/js/runtime-main.49b041f4.js.map",
+    "static/js/2.c0e7845f.chunk.js": "/ferticare/static/js/2.c0e7845f.chunk.js",
+    "static/js/2.c0e7845f.chunk.js.map": "/ferticare/static/js/2.c0e7845f.chunk.js.map",
+    "index.html": "/ferticare/index.html",
+    "static/css/main.469c07b2.chunk.css.map": "/ferticare/static/css/main.469c07b2.chunk.css.map",
+    "static/js/2.c0e7845f.chunk.js.LICENSE.txt": "/ferticare/static/js/2.c0e7845f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.49b041f4.js",
+    "static/js/2.c0e7845f.chunk.js",
+    "static/css/main.469c07b2.chunk.css",
+    "static/js/main.8928294e.chunk.js"
+  ]
+}
